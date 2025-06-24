@@ -3,26 +3,26 @@
     width="1024"
     height="1024"
     viewBox="0 0 256 256"
-    style="--svg-bg: var(--darkreader-neutral-background, #1E1E2E);"
-><rect width="100%" height="100%" fill="#1E1E2E" />
+    style="--svg-bg: var(--darkreader-neutral-background, #24273A);"
+><rect width="100%" height="100%" fill="#24273A" />
 
 
 <defs>
   <pattern id="rainbowStripes" patternUnits="userSpaceOnUse" width="210" height="210" patternTransform="rotate(45) translate(-135)">
-    <rect x="0" width="15" height="210" fill="#F5E0DC" />
-    <rect x="15" width="15" height="210" fill="#F2cdcd" />
-    <rect x="30" width="15" height="210" fill="#F5C2E7" />
-    <rect x="45" width="15" height="210" fill="#CBA6F7" />
-    <rect x="60" width="15" height="210" fill="#F38BA8" />
-    <rect x="75" width="15" height="210" fill="#EBA0AC" />
-    <rect x="90" width="15" height="210" fill="#FAB387" />
-    <rect x="105" width="15" height="210" fill="#F9E2AF" />
-    <rect x="120" width="15" height="210" fill="#A6E3A1" />
-    <rect x="135" width="15" height="210" fill="#94E2D5" />
-    <rect x="150" width="15" height="210" fill="#89DCEB" />
-    <rect x="165" width="15" height="210" fill="#74C7EC" />
-    <rect x="180" width="15" height="210" fill="#89B4FA" />
-    <rect x="195" width="15" height="210" fill="#B4BEFE" />
+    <rect x="0" width="15" height="210" fill="#F4DBD6" />
+    <rect x="15" width="15" height="210" fill="#F0C6C6" />
+    <rect x="30" width="15" height="210" fill="#F5BDE6" />
+    <rect x="45" width="15" height="210" fill="#C6A0F6" />
+    <rect x="60" width="15" height="210" fill="#ED8796" />
+    <rect x="75" width="15" height="210" fill="#EE99A0" />
+    <rect x="90" width="15" height="210" fill="#F5A97F" />
+    <rect x="105" width="15" height="210" fill="#EED49F" />
+    <rect x="120" width="15" height="210" fill="#A6DA95" />
+    <rect x="135" width="15" height="210" fill="#8BD5CA" />
+    <rect x="150" width="15" height="210" fill="#91D7E3" />
+    <rect x="165" width="15" height="210" fill="#7DC4E4" />
+    <rect x="180" width="15" height="210" fill="#8AADF4" />
+    <rect x="195" width="15" height="210" fill="#B7BDF8" />
   </pattern>
 </defs>
 
